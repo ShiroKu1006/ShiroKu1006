@@ -32,6 +32,7 @@
 <h3 align="left">Personal</h3>
     <ul>
         <li><a href="https://hackmd.io/L64LmTC0TO245Bnq5z4brQ">Python入門教學</a>
+        <li><a href="https://github.com/SiroKu1006/someTools">一些下載工具</a>
         <li>Discord Bot (已隱藏)</li>
     </ul>
 <h3 align="left">Team</h3>
