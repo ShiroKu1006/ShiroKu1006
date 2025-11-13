@@ -1,9 +1,9 @@
-<h1 align="center">歡迎來到SiroKu的GitHub</h1>
+<h1 align="center">歡迎來到ShiroKu的GitHub</h1>
 
 ![image](https://i.imgur.com/2gn5EI8.jpg)
 
 <h2 align="left">About me</h3>
-<p align="left">嗨，我是Siroku，目前(2025/01)就讀於國立高雄大學資工系，這裡放一些自己開發的一些專案或學校小組的專題，目前主要使用Python和JavaScript，最近在練Cpp、Java、Html/css，平常練題都用LeetCode。</h3>
+<p align="left">嗨，我是Shiroku，目前(2025/01)就讀於國立高雄大學資工系，這裡放一些自己開發的一些專案或學校小組的專題，目前主要使用Python和JavaScript，最近在練Cpp、Java、Html/css，平常練題都用LeetCode。</h3>
 
 
 ###
@@ -32,7 +32,7 @@
 <h3 align="left">Personal</h3>
     <ul>
         <li><a href="https://hackmd.io/L64LmTC0TO245Bnq5z4brQ">Python入門教學</a>
-        <li><a href="https://github.com/SiroKu1006/someTools">一些下載工具</a>
+        <li><a href="https://github.com/ShiroKu1006/someTools">一些下載工具</a>
         <li>Discord Bot (已隱藏)</li>
     </ul>
 <h3 align="left">Team</h3>
@@ -47,12 +47,12 @@
 
 <h2 align="left">Viewers & Stats</p>
 
-![viewer](https://count.getloli.com/get/@Siroku1006?theme=rule34)
+![viewer](https://count.getloli.com/get/@Shiroku1006?theme=rule34)
 <!-- https://leetcode.card.workers.dev/ -->
-![LeetCode Stats](https://leetcode.card.workers.dev/Siroku?theme=dark&font=patrick_hand&extension=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/Shiroku?theme=dark&font=patrick_hand&extension=activity)
 <div style="display: flex; justify-content: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiroKu1006&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SiroKu1006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShiroKu1006&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ShiroKu1006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
