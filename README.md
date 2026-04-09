@@ -3,7 +3,7 @@
 ![image](https://i.imgur.com/2gn5EI8.jpg)
 
 <h2 align="left">About me</h3>
-<p align="left">嗨，我是Shiroku，目前(2025/11)就讀於國立高雄大學資工系，這裡放一些自己開發的一些專案或學校小組的專題，目前主要使用Python和JavaScript，最近在練Cpp、Java、Html/css，平常練題都用LeetCode。</h3>
+<p align="left">嗨，我是Shiroku，目前(2026/04)就讀於國立高雄大學資工系，這裡放一些自己開發的一些專案或學校小組的專題，目前主要使用Python和JavaScript，最近在練Cpp、Java、Html/css，平常練題都用LeetCode。</h3>
 
 
 ###
@@ -24,7 +24,7 @@
         <li>2023/09~2024/06 國立高雄大學資工系系學會 資訊長
         <li>2023/09~2024/08 NUK Google Developer Student Club (GDSC) - Core Team Member
         <li>2023/12 GDSC-NUK 簡單上手Python入門教學 講者
-        <li>2024/09~ Google Developer Group on Campus NUK - Core Team Member
+        <li>2024/09~2026/06 Google Developer Group on Campus NUK - Core Team Member
     </ul>
 
 ###
