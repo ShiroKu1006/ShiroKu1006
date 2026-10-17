@@ -34,7 +34,6 @@
         <li><a href="https://hackmd.io/L64LmTC0TO245Bnq5z4brQ">Python入門教學</a>
         <li><a href="https://github.com/ShiroKu1006/someTools">一些下載工具</a>
         <li><a href="https://github.com/ShiroKu1006/BeautyTasks-zhTW">Obsidian BeautyTasks plugin 繁體中文化</a>
-        <li>Discord Bot (已隱藏)</li>
     </ul>
 <h3 align="left">Team</h3>
     <ul>
