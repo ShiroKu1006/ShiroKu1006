@@ -48,8 +48,6 @@
 <h2 align="left">Viewers & Stats</p>
 
 ![viewer](https://count.getloli.com/get/@Shiroku1006?theme=rule34)
-<!-- https://leetcode.card.workers.dev/ -->
-![LeetCode Stats](https://leetcode.card.workers.dev/Shiroku?theme=dark&font=patrick_hand&extension=activity)
 <div style="display: flex; justify-content: left;">
   <img src="https://github-readme-stats.vercel.app/api?username=ShiroKu1006&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ShiroKu1006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
