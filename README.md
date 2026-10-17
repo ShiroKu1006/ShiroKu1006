@@ -3,7 +3,7 @@
 ![image](https://i.imgur.com/2gn5EI8.jpg)
 
 <h2 align="left">About me</h3>
-<p align="left">嗨，我是Shiroku，目前(2026/07)就讀於國立高雄大學資工系研究所，這裡放一些自己開發的一些專案或學校小組的專題，</h3>
+<p align="left">嗨，我是Shiroku，目前(2026/09)就讀於國立高雄大學資工系研究所，這裡放一些自己開發的一些專案或學校小組的專題，</h3>
 
 
 ###
@@ -33,6 +33,7 @@
     <ul>
         <li><a href="https://hackmd.io/L64LmTC0TO245Bnq5z4brQ">Python入門教學</a>
         <li><a href="https://github.com/ShiroKu1006/someTools">一些下載工具</a>
+        <li><a href="https://github.com/ShiroKu1006/BeautyTasks-zhTW">Obsidian BeautyTasks plugin 繁體中文化</a>
         <li>Discord Bot (已隱藏)</li>
     </ul>
 <h3 align="left">Team</h3>
